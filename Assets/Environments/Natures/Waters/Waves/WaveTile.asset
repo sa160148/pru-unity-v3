@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: WaveTile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 180745823, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: 513863376, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: 1875723909, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: -604428369, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: 970993540, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: -1700753145, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: 408458622, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: -793262564, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: -522448843, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  - {fileID: -1785165538, guid: 318b1ae4cc0c1b84da4570320b1771f7, type: 3}
+  m_MinSpeed: 2
+  m_MaxSpeed: 2
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
